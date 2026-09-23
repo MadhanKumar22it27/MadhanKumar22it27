@@ -155,7 +155,7 @@ An intelligent traffic management system using computer vision to detect vehicle
 ## 🤝 Connect With Me
 
 <p>
-  <a href="www.linkedin.com/in/madhankumar-karthikeyen-204b462bb">
+  <a href="https://www.linkedin.com/in/madhankumar-karthikeyen-204b462bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
