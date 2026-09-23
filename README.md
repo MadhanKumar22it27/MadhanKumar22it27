@@ -79,35 +79,35 @@ Development
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Web Application
+### 🎓 Campus Issue Tracking System
 
-A full-stack e-commerce application built using the MERN stack.
+A web-based issue management system designed to help manage, track, and resolve campus-related issues efficiently.
 
-**Tech:** React.js • Node.js • Express.js • MongoDB
+**Tech:** Python • Flask • MySQL • HTML • CSS • JavaScript
 
-**Features:**
+**Highlights:**
 
-* User authentication
-* Product management
-* Shopping cart
-* Order management
-* REST APIs
-* Responsive UI
+* Built a web-based issue management system handling **500+ tickets** with minimal latency
+* Developed the backend using **Python Flask** and **MySQL**
+* Implemented **priority-based issue filtering** for efficient ticket management
+* Added **real-time status updates** to track issue progress
+* Improved issue resolution time by **30%**
 
 ---
 
-### 🎓 Smart Campus Assistant
+### 🚌 Real-Time College Bus Tracking System
 
-An AI-powered application designed to help students interact with their academic resources.
+A real-time college bus tracking system designed to provide reliable location tracking and estimated arrival information for students.
 
-**Tech:** React.js • Node.js • Python • AI/ML
+**Tech:** Flask • MySQL • Leaflet.js • JavaScript
 
-**Features:**
+**Highlights:**
 
-* Upload learning materials
-* Question answering
-* Content summarization
-* Quiz generation
+* Engineered a real-time, high-availability tracking system supporting **10+ buses and 100+ students**
+* Implemented secure, low-latency **user authentication and role-based access control**
+* Built real-time **ETA countdown functionality** with a **5-second refresh rate**
+* Integrated **Leaflet.js** for interactive live bus location visualization
+* Developed the backend using **Flask** with **MySQL** for data management
 
 ---
 
@@ -130,8 +130,8 @@ An intelligent traffic management system using computer vision to detect vehicle
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MadhanKumar22it27&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanKumar22it27&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -139,7 +139,7 @@ An intelligent traffic management system using computer vision to detect vehicle
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=MadhanKumar22it27&theme=tokyonight" />
 </p>
 
 ---
@@ -155,11 +155,11 @@ An intelligent traffic management system using computer vision to detect vehicle
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="www.linkedin.com/in/madhankumar-karthikeyen-204b462bb">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:madhan241125@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
